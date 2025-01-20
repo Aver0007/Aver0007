@@ -10,3 +10,8 @@
 Aver0007/Aver0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+MY SKILLS:-
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,nodejs,react,expressjs,jquery,git,github,mysql,npm,postgres,postman,vite,vscode)](https://skillicons.dev)
