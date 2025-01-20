@@ -14,4 +14,4 @@ MY SKILLS:-
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,nodejs,react,expressjs,jquery,git,github,mysql,npm,postgres,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,nodejs,react,expressjs,jquery,git,github,mysql,npm,postgres,postman,vite,vscode,bootstrap,tailwind)](https://skillicons.dev)
